@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intent Filters and Activity Switching</string>
+    <string name="loan_calculator_app_name">Loan Calculator: Monthly Payments</string>
+    <string name="tabs_app_name">Tabbed Windows</string>
+    <string name="loan_amount_prompt">Loan amount:&#160;&#160;</string>
+    <string name="interest_rate_prompt">Interest rate:&#160;&#160;</string>
+    <string name="loan_period_prompt">Months:&#160;&#160;</string>
+    <string name="monthly_payment_prompt">Monthly payment:&#160;&#160;</string>
+    <string name="total_payments_prompt">Total payments:&#160;&#160;</string>
+</resources>

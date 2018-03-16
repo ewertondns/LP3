@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Used inside loan_payments.xml. -->
+    <color name="default_foreground">#d3d3d3</color>
+    <color name="divider_background">#ffffff</color>
+    <color name="result_foreground">#ff0000</color>
+</resources>
